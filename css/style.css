@@ -1,3 +1,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+
+.part-people{
+    background-color: rgb(0, 255, 179);
+    /* DEBUG */
+    min-height: 260px;
+}
