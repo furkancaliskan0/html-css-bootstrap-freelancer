@@ -14,13 +14,18 @@ body{
     align-items: center;
     background-color: #1ebe9e;
 }
+.about-green{
+    background-color: #1abc9c;
+    min-height: 400px;
+}
 
 .logo{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    
+    min-height: 300px;
 }
+
 
 .hero-avatar, .hero-text, .decoration, .hero-subheading, .text .block_xl{
     width: 100%;
