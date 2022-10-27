@@ -28,13 +28,16 @@ body{
 }
 
 
+
 .hero-avatar, .hero-text, .decoration, .hero-subheading, .text {
     width: 100%;
     height: 40px;
     
 }
 
-
+.me{
+    color: black;
+}
 
 .hero-subheading, .hero-text, .col, .text-center, .mb-3, .col, .paragraph{
     color: #ffff;
